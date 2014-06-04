@@ -1,0 +1,4 @@
+ngcmonitor
+==========
+
+myNGConnect Smoke Check
